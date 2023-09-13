@@ -1,4 +1,6 @@
 # Rosettes
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarkski1%2FRosettesDiscord.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarkski1%2FRosettesDiscord?ref=badge_shield)
+
 A simple Discord bot written in .NET 7 through Discord.NET
 
 ## What is Rosettes meant to be?
@@ -54,3 +56,5 @@ The reason I open sourced Rosettes is a simple matter of transparency. Let peopl
 Anyone, anywhere, for any reason, can use any of the code in this repository.
 It is provided as-is, I am not responsible or liable for anything related to it's use by third parties.
 If the code is used in a public-facing application, I'd appreciate to be given some minimal credit somewhere, but I certainly won't bother enforcing this if you wish to not do it.
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarkski1%2FRosettesDiscord.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarkski1%2FRosettesDiscord?ref=badge_large)
